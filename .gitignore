@@ -3,3 +3,6 @@ LICENSE.tex
 test.md
 build
 *.tar.gz
+
+# sensitive info
+bank-statement.CSV
